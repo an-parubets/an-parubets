@@ -30,9 +30,7 @@ Hi there, I'm Anatolii 👋. I live in Kyiv, Ukraine 🇺🇦 and I work as a Fr
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-icon.svg" alt="GitHub" width="35px" height="35px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postman.svg" alt="Postman" width="35px" height="35px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/stackoverflow-icon.svg" alt="Stackoverflow" width="35px" height="35px" align="left">
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/webstorm.svg" alt="Webstorm" width="35px" height="35px" align="left">
-
-<br />
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/webstorm.svg" alt="Webstorm" width="35px" height="35px">
 <br />
 
 ---
