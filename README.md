@@ -4,7 +4,7 @@ Hi there, I'm Anatolii 👋. I live in Kyiv, Ukraine 🇺🇦 and I work as a Fr
 
 ### My stack and tools:
 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="35px" height="35px" align="left">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="35px" height="35px" align="left" styles="margin: 0 0 10px 0">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg" alt="TypeScript" width="35px" height="35px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" alt="React" width="35px" height="35px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redux.svg" alt="Redux" width="35px" height="35px" align="left">
