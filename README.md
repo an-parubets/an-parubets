@@ -44,6 +44,7 @@ Hi there, I'm Anatolii 👋. I live in Kyiv, Ukraine 🇺🇦 and I work as a Se
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/stackoverflow-icon.svg" alt="Stackoverflow" width="35px" height="35px" align="left">](https://stackoverflow.com/users/11066954/an-parubets)
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/macOS.svg" alt="macOS" width="105px" height="35px" align="left">](https://www.apple.com/macos/)
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/webstorm.svg" alt="Webstorm" width="35px" height="35px">](https://www.jetbrains.com/webstorm/)
+
 <br />
 
 For the icons provided, thanks so mach 🙏 to the site [svgporn](https://svgporn.com/)
