@@ -38,7 +38,7 @@ Hi there, I'm Anatolii 👋. I live in Kyiv, Ukraine 🇺🇦 and I work as a Se
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gitlab.svg" alt="GitLab" width="35px" height="35px" align="left">](https://about.gitlab.com/)
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postman-icon.svg" alt="Postman" width="35px" height="35px" align="left">](https://www.postman.com/)
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/webstorm.svg" alt="Webstorm" width="35px" height="35px">](https://www.jetbrains.com/webstorm/)
-
+<br><br>
 ---
 
 For the icons provided, thanks so mach 🙏 to the site [svgporn](https://svgporn.com/)
