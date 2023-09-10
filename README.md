@@ -1,6 +1,6 @@
 # About Me
 
-Hi there, I'm Anatolii 👋. I live in Kyiv, Ukraine 🇺🇦 and I work as a Senior Front End Engineer at Parimatch Ukraine.
+Hi there, I'm Anatolii 👋. I live in Kyiv, Ukraine 🇺🇦 and I am a Senior Front End Engineer.
 
 ### My stack and tools:
 
