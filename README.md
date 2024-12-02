@@ -58,14 +58,6 @@ For the icons provided, thanks so mach 🙏 to the site [svgporn](https://svgpor
 
 ---
 
-![Lpj's github stats](https://github-readme-stats.vercel.app/api?username=an-parubets&theme=buefy&show_icons=true&count_private=true)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=an-parubets&layout=compact)
-
----
-
 ### Licenses
 
 Icons / logo SVG code are under [CC0](https://github.com/an-parubets/an-parubets/blob/master/CCO)
