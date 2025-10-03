@@ -35,10 +35,11 @@ I live in **Kyiv, Ukraine 🇺🇦** and I am a **Senior Front End Engineer** wi
 
 <p align="center">
   <a href="https://linkedin.com/in/parubets"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
-  <a href="https://twitter.com/an_parubets"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a>
+  <a href="https://x.com/an_parubets"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" height="30" width="40" alt="X (Twitter)"/></a>
   <a href="https://stackoverflow.com/users/11066954"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40"/></a>
   <a href="https://instagram.com/an_parubets"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
 </p>
+
 
 ---
 
