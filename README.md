@@ -27,16 +27,7 @@ I live in **Kyiv, Ukraine 🇺🇦** and I am a **Senior Front End Engineer** wi
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="Git" width="40" height="40"/></a>
 </p>
 
-> ⚡️ Constantly exploring new frameworks and tools to stay on the edge of front-end development.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=an-parubets&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=an-parubets&theme=radical" alt="GitHub Streak" height="160"/>
-</p>
+> ⚡️ Always learning, building and improving.
 
 ---
 
@@ -44,6 +35,7 @@ I live in **Kyiv, Ukraine 🇺🇦** and I am a **Senior Front End Engineer** wi
 
 <p align="center">
   <a href="https://linkedin.com/in/parubets"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+  <a href="https://twitter.com/an_parubets"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a>
   <a href="https://stackoverflow.com/users/11066954"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40"/></a>
   <a href="https://instagram.com/an_parubets"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
 </p>
